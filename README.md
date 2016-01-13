@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JUnit 4
 JUnit is a simple framework to write repeatable tests. It is an instance of the xUnit architecture for unit testing frameworks.
 
@@ -10,3 +11,7 @@ For more information, please visit:
 
 [![Built on DEV@cloud](http://www.cloudbees.com/sites/default/files/Button-Built-on-CB-1.png)](http://www.cloudbees.com/foss/foss-dev.cb)
 
+=======
+# dUnit
+This is personal version of junit
+>>>>>>> 0eac047c34900f6851f06cb08ea53c8ef4125820
